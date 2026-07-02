@@ -17,7 +17,7 @@ interface ReviewIssue {
   rule: string;
   suggestion?: string;
 }
-
+//value based email request
 interface ReviewEmailRequest {
   recipientEmail: string;
   mrTitle: string;

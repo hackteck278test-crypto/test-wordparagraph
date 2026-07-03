@@ -11,7 +11,7 @@ export default function Dashboard() {
         <div>
           <h1 className="text-3xl font-bold tracking-tight">Dashboard</h1>
           <p className="mt-2 text-muted-foreground">
-            Monitor your automated code reviews and repository health.
+            Monitor your automated code review and repository health.
           </p>
         </div>
 

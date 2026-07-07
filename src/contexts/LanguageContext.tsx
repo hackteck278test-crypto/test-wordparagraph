@@ -41,7 +41,7 @@ const translations: Record<Language, Record<string, string>> = {
     "indexer.copiedToClipboard": "Copied to clipboard",
     "indexer.copiedDesc": "README content has been copied.",
     
-    // Merge Review
+    // merge Review code
     "review.title": "Merge Request Review",
     "review.description": "Analyze merge requests against your style guide and best practices.",
     "review.config": "Review Configuration",
